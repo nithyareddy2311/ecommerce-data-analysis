@@ -21,13 +21,11 @@ This project analyzes e-commerce sales data to uncover insights and build an int
 - Found high revenue-generating categories
 
 ## Dashboard Preview
-
-Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Overview page.png
-Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Product page.png
-Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Operations page.png
-Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Regional page.png
-Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Summary page.png
-
+![Dashboard](Project%201%20-%20End-to-End%20E-Commerce%20Data%20Analytics%20%26%20Dashboarding%20Solution/powerbi_dashboard/Overview%20page.png)
+![Dashboard](Project%201%20-%20End-to-End%20E-Commerce%20Data%20Analytics%20%26%20Dashboarding%20Solution/powerbi_dashboard/Products%20page.png)
+![Dashboard](Project%201%20-%20End-to-End%20E-Commerce%20Data%20Analytics%20%26%20Dashboarding%20Solution/powerbi_dashboard/Regional%20page.png)
+![Dashboard](Project%201%20-%20End-to-End%20E-Commerce%20Data%20Analytics%20%26%20Dashboarding%20Solution/powerbi_dashboard/Operations%20page.png)
+![Dashboard](Project%201%20-%20End-to-End%20E-Commerce%20Data%20Analytics%20%26%20Dashboarding%20Solution/powerbi_dashboard/Summary%20page.png)
 
 ## Conclusion
 This project demonstrates end-to-end data analysis skills from data cleaning to visualization.
