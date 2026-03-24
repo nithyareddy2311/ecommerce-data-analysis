@@ -22,6 +22,11 @@ This project analyzes e-commerce sales data to uncover insights and build an int
 
 ## Dashboard Preview
 
+Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Overview page.png
+Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Product page.png
+Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Operations page.png
+Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Regional page.png
+Project 1 - End-to-End E-Commerce Data Analytics & Dashboarding Solution/powerbi_dashboard/Summary page.png
 
 
 ## Conclusion
