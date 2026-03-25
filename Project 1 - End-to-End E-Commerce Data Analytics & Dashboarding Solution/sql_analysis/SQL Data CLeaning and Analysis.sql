@@ -137,6 +137,27 @@ SELECT Category, GROUP_CONCAT(ProductName) AS Products
 FROM sales
 GROUP BY Category;
 
+SELECT DISTINCT STATE 
+FROM sales;
+
+UPDATE sales
+SET state = CASE state
+    WHEN 'DC' THEN 'District of Columbia'
+    WHEN 'TX' THEN 'Texas'
+    WHEN 'NC' THEN 'North Carolina'
+    WHEN 'CA' THEN 'California'
+    WHEN 'IL' THEN 'Illinois'
+    WHEN 'CO' THEN 'Colorado'
+    WHEN 'FL' THEN 'Florida'
+    WHEN 'NY' THEN 'New York'
+    WHEN 'WA' THEN 'Washington'
+    WHEN 'IN' THEN 'Indiana'
+    WHEN 'PA' THEN 'Pennsylvania'
+    WHEN 'AZ' THEN 'Arizona'
+    WHEN 'OH' THEN 'Ohio'
+    ELSE state
+END;
+
 
 
 -- DATA EXPLORATION
